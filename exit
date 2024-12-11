@@ -1,0 +1,13 @@
+user.email=sherif.maliqi@gig-ext.com
+user.name=Sherif Maliqi
+init.defaultbranch=main
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/translation-bundle
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/translation
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/api-front-dto
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/api-token-manager-bundle-ph
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/api-token-manager-bundle-ph
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/api-token-manager-bundle-php-8
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/calculation-library
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/live-bundle
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/php-utils
+safe.directory=/home/sherifm-ubuntu/Desktop/Work/gig/api-betting-sport-x/vendor/sportnco/protobuf
